@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/RenewGuard.Api/RenewGuard.Api.csproj" />
+    <Project Path="src/RenewGuard.Application/RenewGuard.Application.csproj" />
+    <Project Path="src/RenewGuard.Domain/RenewGuard.Domain.csproj" />
+    <Project Path="src/RenewGuard.Infrastructure/RenewGuard.Infrastructure.csproj" />
+    <Project Path="src/RenewGuard.McpServer/RenewGuard.McpServer.csproj" />
+    <Project Path="src/RenewGuard.Worker/RenewGuard.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/RenewGuard.Eval/RenewGuard.Eval.csproj" />
+    <Project Path="tests/RenewGuard.UnitTests/RenewGuard.UnitTests.csproj" />
+  </Folder>
+</Solution>
