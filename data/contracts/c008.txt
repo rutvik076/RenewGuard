@@ -1,0 +1,18 @@
+FLEET SOFTWARE LICENCE AND SUPPORT AGREEMENT
+
+This agreement is made between Tarnwick Systems Pty Ltd (ABN to be shown on invoices), whom we call "Tarnwick", and Corrigan & Wells Freight Pty Ltd, whom we call "the Customer", and it takes effect on the first day of January 2025.
+
+Tarnwick agrees to license its RouteWise dispatch and fleet-tracking software to the Customer for use across the Customer's depots in Victoria and New South Wales, and to provide the hosting, updates and helpdesk support described in the attached service description. The licence covers up to sixty vehicles; if the Customer wants to track more, the parties will agree an addendum and the extra charge in writing before any additional vehicle is connected.
+
+The agreement runs for an initial period of eighteen (18) months from the first day of January 2025 and expires on 30 June 2026. When that period ends, the agreement will renew by itself for further periods of six (6) months at a time, unless either party tells the other in writing, not less than ninety (90) days before the end of the period then running, that it does not want the agreement to continue. A notice sent by registered post or by email to the contact named on the cover sheet counts as written notice.
+
+The Customer will pay a monthly fee of AUD 6,400, invoiced at the start of each month and due within fourteen days. At the start of every renewal period, Tarnwick may raise the monthly fee, and the fee will go up by three and one-half percent (3.5%) over the amount that applied in the period before. Tarnwick will show the new figure on the first invoice of the renewal period.
+
+Once twelve months have passed from the start date, the Customer alone may end this agreement for convenience, without giving a reason, by giving Tarnwick one hundred and twenty (120) days' written notice. Fees accrued up to the end of that notice period remain payable, and no refund is due for fees already paid. Tarnwick has no matching right to end the agreement for convenience, although either party may end it at once if the other becomes insolvent or commits a serious breach that is not put right after written notice.
+
+Tarnwick will keep the Customer's operational data secure, will not share it with anyone except its own hosting providers, and will return it in a standard export format within a reasonable time after the agreement finishes. Each party's liability to the other is limited to the fees paid in the twelve months before the event giving rise to the claim, except where the law does not allow such a limit.
+
+This agreement is governed by the law of Victoria, Australia.
+
+Signed for Tarnwick Systems Pty Ltd: ____________________
+Signed for Corrigan & Wells Freight Pty Ltd: ____________________

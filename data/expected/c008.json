@@ -1,0 +1,12 @@
+{
+  "id": "c008",
+  "difficulty": "medium",
+  "vendor_name": "Tarnwick Systems Pty Ltd",
+  "effective_date": "2025-01-01",
+  "current_term_end_date": "2026-06-30",
+  "auto_renews": true,
+  "renewal_term_months": 6,
+  "notice_period_days": 90,
+  "price_escalation_percent": 3.5,
+  "termination_for_convenience": true
+}

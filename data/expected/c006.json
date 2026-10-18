@@ -1,0 +1,12 @@
+{
+  "id": "c006",
+  "difficulty": "medium",
+  "vendor_name": "Brightlane Analytics Ltd.",
+  "effective_date": "2024-04-01",
+  "current_term_end_date": "2026-03-31",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 60,
+  "price_escalation_percent": 4,
+  "termination_for_convenience": false
+}

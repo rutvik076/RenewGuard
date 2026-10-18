@@ -1,0 +1,34 @@
+MASTER SERVICES ORDER
+Quillfeather Cloud Services Inc.
+
+Parties
+This Master Services Order is entered into on September 15, 2023 (the "Start Date") by Quillfeather Cloud Services Inc., a Delaware corporation with offices at 410 Alder Row, Wilmington, Delaware ("Quillfeather"), and Dunmore & Ash Architects LLP, a limited liability partnership ("Client").
+
+Subscription
+Quillfeather grants Client a non-exclusive, non-transferable right to access and use its hosted project-collaboration suite, including file storage, drawing review tools and the client portal, for up to one hundred and twenty (120) named users. Additional users may be added by written order.
+
+Term
+The initial term begins on the Start Date and runs for thirty-six (36) months, ending at the close of business on September 14, 2026.
+
+Renewal
+At the end of the initial term, this Order renews automatically for successive renewal terms of twelve (12) months each. Either party may prevent a renewal by giving written notice of non-renewal not later than two (2) months before the end of the term then in progress. Notice must be sent to the address shown above or to the notice email designated by the receiving party.
+
+Fees and Payment
+Client shall pay the fees listed in Schedule A. Quillfeather will invoice quarterly in advance, and Client shall pay each invoice within thirty (30) days of receipt. Amounts not paid when due may be subject to a late charge of one percent per month, and Quillfeather may suspend access after written warning of an overdue balance.
+
+Support
+Quillfeather provides email and telephone support during business hours, Monday through Friday, excluding public holidays. Critical outages are acknowledged within four hours.
+
+Confidentiality
+Each party shall protect the other's confidential information with at least the care it uses for its own, and shall use it only to perform or receive the services. These obligations survive for five years after the relationship ends.
+
+Limitation of Liability
+Neither party is liable for indirect, incidental or consequential loss. Quillfeather's total liability under this Order shall not exceed the fees paid by Client in the twelve months preceding the claim.
+
+Termination for Cause
+Either party may end this Order if the other materially breaches it and fails to correct the breach within a reasonable period after written notice.
+
+General
+This Order is governed by the laws of the State of Delaware. It is the entire agreement of the parties on its subject and may be changed only in a writing signed by both.
+
+Quillfeather Cloud Services Inc.            Dunmore & Ash Architects LLP

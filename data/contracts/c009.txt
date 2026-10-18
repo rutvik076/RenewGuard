@@ -1,0 +1,36 @@
+DATA SERVICES AGREEMENT
+
+Agreement reference: OPD-LH-2024-117
+
+This Data Services Agreement ("Agreement") is entered into as of November 15, 2024 (the "Effective Date") by and between Orchid Peak Data Corp., 88 Quarry Lane, Burlington, Vermont ("Orchid Peak"), and the Lumen Harbor Foundation, a non-profit organization ("Foundation").
+
+ARTICLE 1 — SERVICES
+Section 1.1. Orchid Peak shall provide the Foundation with access to its donor-records hosting and reporting service, including nightly backups, role-based access controls and a monthly summary report delivered by email.
+Section 1.2. Orchid Peak shall provide onboarding assistance, consisting of up to ten hours of data-import support during the first month.
+
+ARTICLE 2 — TERM
+Section 2.1. This Agreement begins on the Effective Date and continues for a term of twelve (12) months, expiring on November 14, 2025.
+Section 2.2. This Agreement shall not renew automatically. Any extension of the term must be set out in a written instrument signed by authorized representatives of both parties.
+
+ARTICLE 3 — FEES
+Section 3.1. The Foundation shall pay Orchid Peak a monthly service fee of USD 2,150, invoiced on the first business day of each month.
+Section 3.2. Invoices are payable within thirty (30) days of the invoice date. Payments shall be made by bank transfer to the account identified on the invoice.
+Section 3.3. Fees are exclusive of applicable taxes. The Foundation shall provide evidence of any tax-exempt status on or before the Effective Date.
+
+ARTICLE 4 — SUSPENSION
+Section 4.1. If any undisputed invoice remains unpaid after its due date, Orchid Peak may suspend the service after giving the Foundation written notice of the overdue amount. Orchid Peak shall restore the service promptly after payment is received.
+
+ARTICLE 5 — DATA OWNERSHIP AND SECURITY
+Section 5.1. All donor and constituent records supplied by the Foundation remain the Foundation's property. Orchid Peak receives only the limited right to host and process them in order to deliver the service.
+Section 5.2. Orchid Peak shall maintain administrative, technical and physical safeguards consistent with generally accepted industry practice and shall promptly report any confirmed unauthorized access to Foundation data.
+Section 5.3. At the end of the term, Orchid Peak shall provide the Foundation with a complete export of its records in CSV format.
+
+ARTICLE 6 — LIABILITY
+Section 6.1. Orchid Peak's aggregate liability under this Agreement shall not exceed the fees paid by the Foundation during the twelve months preceding the event giving rise to the claim. Neither party is liable for lost profits or indirect damages.
+
+ARTICLE 7 — GENERAL
+Section 7.1. This Agreement is governed by the laws of the State of Vermont.
+Section 7.2. This Agreement is the entire understanding of the parties on its subject matter.
+
+For Orchid Peak Data Corp.: ____________________   Date: __________
+For Lumen Harbor Foundation: ____________________   Date: __________
