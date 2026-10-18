@@ -1,0 +1,12 @@
+{
+  "id": "c005",
+  "difficulty": "easy",
+  "vendor_name": "Copperleaf Payroll Technologies Pty Ltd",
+  "effective_date": "2024-11-01",
+  "current_term_end_date": "2026-10-31",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 30,
+  "price_escalation_percent": null,
+  "termination_for_convenience": false
+}

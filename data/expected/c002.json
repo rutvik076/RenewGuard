@@ -1,0 +1,12 @@
+{
+  "id": "c002",
+  "difficulty": "easy",
+  "vendor_name": "Quillon Cloud Systems, Inc.",
+  "effective_date": "2023-07-15",
+  "current_term_end_date": "2026-07-14",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 90,
+  "price_escalation_percent": 3.5,
+  "termination_for_convenience": null
+}

@@ -1,0 +1,12 @@
+{
+  "id": "c004",
+  "difficulty": "easy",
+  "vendor_name": "Tessellate Support Co.",
+  "effective_date": "2025-09-01",
+  "current_term_end_date": "2027-02-28",
+  "auto_renews": true,
+  "renewal_term_months": 6,
+  "notice_period_days": 45,
+  "price_escalation_percent": 4,
+  "termination_for_convenience": true
+}

@@ -1,0 +1,35 @@
+TESSELLATE SUPPORT CO.
+MANAGED IT SUPPORT AGREEMENT
+Agreement No. TS-2025-0417
+
+PARTIES. This Managed IT Support Agreement is made effective 1 September 2025 between Tessellate Support Co. ("Tessellate"), of 88 Orchard Row, Leeds, United Kingdom, and Halden Print & Packaging Ltd ("the Customer").
+
+SECTION A. SCOPE OF SUPPORT
+Tessellate will provide help-desk support, remote monitoring, and patch management for up to 120 Customer devices during standard business hours.
+
+SECTION B. INITIAL TERM
+The initial term is eighteen (18) months, beginning on 1 September 2025 and ending on 28 February 2027.
+
+SECTION C. RENEWAL
+At the end of the initial term, the Agreement shall be extended automatically for further terms of six (6) months each. Each extension takes effect without any action by either party unless notice is given under Section D.
+
+SECTION D. NOTICE TO PREVENT RENEWAL
+A party that does not wish the Agreement to extend must notify the other party in writing no later than forty-five (45) days before the end of the initial term or of any extension term.
+
+SECTION E. CHARGES
+The Customer will pay a monthly support charge of GBP 2,100, invoiced on the first business day of each month and payable within 14 days.
+
+SECTION F. ANNUAL CHARGE INCREASE
+At the start of each extension term, Tessellate may raise the monthly support charge by 4% of the charge then in effect.
+
+SECTION G. EARLY TERMINATION
+The Customer may terminate this Agreement for convenience at any time by giving Tessellate sixty (60) days' written notice. Tessellate does not have a right to terminate for convenience.
+
+SECTION H. LIABILITY
+Tessellate's total liability under this Agreement in any twelve-month period is limited to the charges paid in that period.
+
+SECTION I. LAW
+This Agreement is governed by the laws of England and Wales.
+
+Signed: ____________________ (Tessellate Support Co.)
+Signed: ____________________ (Halden Print & Packaging Ltd)

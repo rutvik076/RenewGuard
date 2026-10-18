@@ -1,0 +1,32 @@
+HARBOR & PINE DATA SERVICES: PLAIN-LANGUAGE SERVICE CONTRACT
+
+Who we are: Harbor & Pine Data Services LLC ("we", "us"). Who you are: Eastlake Veterinary Partners ("you").
+Start date: January 1, 2025.
+
+What we provide
+We will host and back up your clinic records using our PineVault storage product. You may store up to 2 TB of data.
+
+How long this lasts
+This contract runs for one year, from January 1, 2025 until December 31, 2025.
+
+Renewal
+We want things to be easy, so this contract renews by itself. When the first year ends, it rolls over for another 12 months, and then again every 12 months after that, unless one of us cancels the renewal.
+
+How to stop the renewal
+If you or we do not want the contract to renew, the cancellation notice must be in writing and must reach the other side not less than 90 days before the current term ends. Email to renewals@harborpine.example is fine.
+
+What it costs
+Your fee is $950 per month. Each time the contract renews, we may raise the monthly fee by 7%. We will tell you the new amount in the renewal reminder we send you.
+
+Ending the contract early
+You may end this contract at any time, for any reason, by giving us 30 days' written notice. You will owe fees only up to the end of that notice period. We may end this contract early only if you stop paying and do not catch up within 15 days of our reminder.
+
+Your data
+You own your data. If the contract ends, we will give you an export file within 14 days.
+
+Law that applies
+This contract is governed by the laws of the State of Washington.
+
+Agreed by:
+Harbor & Pine Data Services LLC ____________________
+Eastlake Veterinary Partners ____________________

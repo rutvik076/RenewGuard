@@ -1,0 +1,26 @@
+SOFTWARE SUBSCRIPTION AGREEMENT
+
+This Software Subscription Agreement (the "Agreement") is entered into as of March 1, 2024 (the "Effective Date") between Brightwave Analytics Ltd., a company incorporated in Ontario, Canada ("Provider"), and Marlowe & Finch Outfitters Inc. ("Customer").
+
+1. Services. Provider shall make its Brightwave Insights dashboard platform (the "Services") available to Customer for use by up to fifty (50) named users.
+
+2. Initial Term. This Agreement begins on the Effective Date and continues for twenty-four (24) months, expiring on February 28, 2026 (the "Initial Term").
+
+3. Automatic Renewal. Upon expiry of the Initial Term, this Agreement shall renew automatically for successive renewal terms of twelve (12) months each, unless either party gives notice of non-renewal under Section 4.
+
+4. Notice of Non-Renewal. To prevent renewal, a party must deliver written notice of non-renewal to the other party at least sixty (60) days before the end of the then-current term. Notice must be sent by email to the address in Section 9 and confirmed by courier.
+
+5. Fees. Customer shall pay an annual subscription fee of CAD 18,000, invoiced annually in advance. Invoices are due within thirty (30) days of receipt.
+
+6. Price Adjustment. On the first day of each renewal term, Provider may increase the annual subscription fee by five percent (5%) over the fee in effect during the immediately preceding term.
+
+7. No Termination for Convenience. Neither party may terminate this Agreement for convenience during the Initial Term or any renewal term. Termination is permitted only as provided in Section 8.
+
+8. Termination for Cause. Either party may terminate this Agreement upon written notice if the other party materially breaches it and fails to cure the breach within thirty (30) days of receiving written notice describing the breach.
+
+9. Notices. Notices to Provider: legal@brightwave.example. Notices to Customer: contracts@marlowefinch.example.
+
+10. Governing Law. This Agreement is governed by the laws of the Province of Ontario.
+
+Signed for Brightwave Analytics Ltd.: ______________________
+Signed for Marlowe & Finch Outfitters Inc.: ______________________

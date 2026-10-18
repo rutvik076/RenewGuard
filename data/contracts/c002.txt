@@ -1,0 +1,38 @@
+MASTER SERVICES AGREEMENT
+
+THIS MASTER SERVICES AGREEMENT is made and entered into on the 15th day of July, 2023, by and between QUILLON CLOUD SYSTEMS, INC., a Delaware corporation having its principal office at 400 Larkspur Way, Wilmington, Delaware (hereinafter "Quillon"), and TERRAMONT HOSPITALITY GROUP, LLC (hereinafter "Client").
+
+WHEREAS, Quillon provides hosted property-management software and related support; and
+
+WHEREAS, Client wishes to obtain such services on the terms set forth herein;
+
+NOW, THEREFORE, the parties agree as follows:
+
+ARTICLE I - SERVICES
+Quillon shall provide the hosted platform known as "QuillonStay" and associated technical support to Client at all of Client's locations.
+
+ARTICLE II - TERM
+The term of this Agreement shall commence on July 15, 2023 and shall continue for a period of thirty-six (36) months, through and including July 14, 2026 (the "Initial Term").
+
+ARTICLE III - RENEWAL
+Following the Initial Term, this Agreement shall automatically renew for additional periods of twelve (12) months each (each, a "Renewal Term"), unless terminated by either party pursuant to Article IV.
+
+ARTICLE IV - NOTICE OF NON-RENEWAL
+Either party wishing to prevent automatic renewal shall provide written notice to the other party not less than 90 days prior to the expiration of the Initial Term or the then-current Renewal Term. Failure to provide timely notice shall result in renewal for the full Renewal Term.
+
+ARTICLE V - FEES AND ESCALATION
+Client shall pay Quillon a monthly fee of $4,250.00, payable net thirty (30) days from invoice date. Effective upon commencement of each Renewal Term, the monthly fee shall increase by three and one-half percent (3.5%) over the monthly fee charged in the preceding term.
+
+ARTICLE VI - TERMINATION FOR BREACH
+Either party may terminate this Agreement by written notice if the other party commits a material breach and does not remedy such breach within forty-five (45) days after receipt of written notice thereof.
+
+ARTICLE VII - CONFIDENTIALITY
+Each party shall hold the other party's non-public business information in confidence and shall use it solely for purposes of performing this Agreement.
+
+ARTICLE VIII - GOVERNING LAW
+This Agreement shall be governed by the laws of the State of Delaware, without regard to conflict-of-law principles.
+
+IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first written above.
+
+QUILLON CLOUD SYSTEMS, INC. ____________________
+TERRAMONT HOSPITALITY GROUP, LLC ____________________
