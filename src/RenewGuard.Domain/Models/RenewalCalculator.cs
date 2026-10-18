@@ -1,6 +1,6 @@
-﻿namespace RenewGuard.Domain.Models;
+namespace RenewGuard.Domain.Models;
 
-public static class Contract
+public static class RenewalCalculator
 {
     public static DateOnly? CalculateLastCancelDate(
         DateOnly? currentTermEndDate,
