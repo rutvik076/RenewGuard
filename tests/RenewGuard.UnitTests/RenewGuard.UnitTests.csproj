@@ -20,6 +20,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\RenewGuard.Domain\RenewGuard.Domain.csproj" />
+    <ProjectReference Include="..\..\src\RenewGuard.Infrastructure\RenewGuard.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>
