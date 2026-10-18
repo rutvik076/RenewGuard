@@ -1,0 +1,14 @@
+﻿{
+    "id":  "c027",
+    "difficulty":  "hard",
+    "vendor_name":  "Mistralfern Software Ltd.",
+    "effective_date":  "2025-03-01",
+    "current_term_end_date":  "2027-02-28",
+    "initial_term_months":  24,
+    "auto_renews":  true,
+    "renewal_term_months":  12,
+    "notice_period_days":  120,
+    "price_escalation_percent":  null,
+    "termination_for_convenience":  null,
+    "notes":  "No termination-for-convenience clause, so null."
+}

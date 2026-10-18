@@ -1,0 +1,36 @@
+HOSTED PROCUREMENT SERVICES AGREEMENT
+
+This Hosted Procurement Services Agreement (“Agreement”) is made by Northmere Cloud Systems Ltd. (“Provider”) and Bellwether Forge Cooperative (“Customer”).
+
+1. Services and Definitions
+1.1 “Platform” means Provider’s hosted procurement, supplier onboarding, purchase approval, and spend-reporting software.
+1.2 “Subscription Services” means Platform access, standard support, and routine maintenance described here.
+1.3 Provider will provision up to 125 named users and two administrative workspaces. Customer is responsible for network access, user permissions, and the accuracy of information submitted to the Platform.
+
+2. Charges and Invoicing
+2.1 The annual subscription charge is USD 48,000, invoiced in advance. Customer shall pay each undisputed invoice within thirty (30) days after receipt. Charges exclude transaction taxes, other than taxes imposed on Provider’s net income. Migration, custom connector, or training work requires a separate written order signed by both parties.
+2.2 Provider may suspend creation of new accounts for overdue undisputed amounts after written notice and a further ten-day opportunity to cure.
+
+3. Initial Term
+The Agreement commences on March 1, 2025 and continues for an initial term of twenty-four (24) months, unless ended earlier under Section 8. Provider will provide onboarding assistance during the first six weeks. Customer shall appoint a service owner to coordinate configuration requests and security communications. The parties will use reasonable efforts to resolve implementation issues promptly. Customer shall maintain reasonable safeguards for access credentials and promptly report suspected unauthorized access. Provider may conduct scheduled maintenance and will use reasonable efforts to notify Customer of material interruptions. The Platform includes a standard export function while the Subscription Services remain active.
+
+4. Continuity
+At the end of the Initial Term, the Agreement automatically renews for successive periods of twelve (12) months unless either party gives notice of non-renewal in accordance with Section 7. Renewal does not expand the number of users or workspaces. Changes to the subscribed scope must be recorded in a signed order form. The parties may review service performance during the final quarter of a term, but that review does not pause any deadline. Confidentiality and accrued payment obligations survive expiration as described in Section 9.
+
+5. Termination for Cause
+Either party may terminate for material breach if the breaching party fails to cure within thirty days after receiving written notice. Either party may terminate immediately if the other becomes insolvent or ceases substantially all operations. Customer may export its records before access ends.
+
+6. Fees at Renewal
+The annual subscription charge for a renewal term will be the amount then payable under Section 2.1, unless the parties agree to a different amount in a signed writing. Invoices remain subject to Section 2.2.
+
+7. Notices
+A notice of non-renewal must be received no fewer than ninety (90) days before the last day of the then-current term. Notices shall be delivered by tracked courier or email with written acknowledgment to the contract contacts designated by each party. A notice is effective when receipt is confirmed.
+
+8. General Termination
+Termination does not release either party from obligations accrued before the effective termination date. Sections intended by their nature to continue shall remain effective.
+
+9. Confidentiality and Other Terms
+Each party shall protect the other’s non-public technical, commercial, and operational information. This Agreement is governed by the fictional laws of Alderfen.
+
+10. Amendment No. 1
+Notwithstanding Section 7, the parties amend the notice requirement for non-renewal: a notice under Section 7 must be received at least sixty (60) days before the last day of the then-current term. This Amendment No. 1 is effective when signed by both parties and supersedes the ninety-day period stated in Section 7. All other provisions remain unchanged.

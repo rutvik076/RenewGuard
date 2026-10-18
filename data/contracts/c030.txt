@@ -1,0 +1,25 @@
+SAAS PLATFORM SUBSCRIPTION AND ORDER TERMS
+
+Provider: Brindlewave Applications Ltd.
+Subscriber: Oakhaven Resource Partners Ltd.
+
+1. Services
+Provider will make available its hosted resource planning platform, including project dashboards, workflow approvals, resource calendars, and usage reports. The subscription includes up to 105 named users and standard support. Subscriber is responsible for account administration and for maintaining appropriate permissions.
+
+2. Fees and Billing
+The annual subscription fee is USD 39,500, invoiced in advance and payable within thirty (30) days. Provider may charge for additional modules only if Subscriber approves a written order. Taxes imposed on the service, other than taxes on Provider’s net income, are payable by Subscriber. The annual fee shall be adjusted upward by the greater of 4% or the percentage change in the Consumer Price Index (“CPI”) over the preceding twelve-month period. Provider shall identify the CPI period used in its renewal invoice and provide the calculation on request. The fixed percentage floor applies even where CPI movement is below that amount.
+
+3. Duration
+This Agreement starts on the fifteenth day of October, two thousand twenty-four and continues for an initial term of thirty-six (36) months. Provider will provide a setup workshop during the first month and supply standard administrator documentation. Subscriber shall appoint a service contact to coordinate operational requests. Provider may perform maintenance outside normal business hours and will use reasonable efforts to provide advance notice of significant interruptions. Subscriber shall keep credentials secure and notify Provider of suspected unauthorized access. Data export is available through standard tools while the service remains active.
+
+4. Automatic Renewal
+After the initial term, this Agreement automatically renews for successive terms of twelve (12) months unless either party gives timely written notice of non-renewal under Section 7. Each renewal carries forward the existing service scope unless the parties sign a revised order. Renewal does not waive charges already accrued or obligations intended to survive expiry.
+
+5. Termination
+Either party may terminate for material breach if the breach remains uncured thirty days after written notice. Subscriber may terminate immediately if Provider permanently discontinues the platform. Upon termination, Provider shall make a standard export of Subscriber’s data available for twenty days. Accrued charges remain payable.
+
+6. Confidentiality and Law
+Each party shall protect confidential information received from the other and use it only for purposes of this Agreement. This Agreement is governed by the fictional laws of Bellstrand.
+
+7. Notices
+A non-renewal notice must be received at least three months before the end of the then-current term. Notices may be delivered by courier or email with acknowledgment of receipt to the parties’ designated contract contacts. Any amendment must be signed by both parties.

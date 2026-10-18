@@ -1,0 +1,24 @@
+CLOUD CASE MANAGEMENT SERVICES AGREEMENT
+
+This Agreement is entered into by Quillstone Digital Ltd. (“Supplier”) and Fernwick Advisory Group Ltd. (“Client”).
+
+1. Definitions and Service
+“Service” means Supplier’s hosted case management application, including assignment queues, document attachments, activity logs, and reporting dashboards. “Client Data” means content uploaded by Client or its Authorized Users. Supplier shall provide 65 named user seats, standard maintenance, and support through its online portal. Client is responsible for ensuring that it has appropriate rights to Client Data.
+
+2. Charges and Payment
+Client shall pay an annual fee of USD 26,400, billed in advance and payable within thirty (30) days of invoice date. Additional professional services require a separate statement of work. Client shall pay applicable transaction taxes other than taxes imposed on Supplier’s income. Supplier may restrict new uploads for undisputed overdue fees after providing written notice and ten days to cure.
+
+3. Term
+This Agreement takes effect on 01/03/2025 (day/month/year) and continues for an initial term of eighteen (18) months. Supplier will provide a remote setup session and configuration checklist during the first thirty days. Client shall nominate a service administrator and keep the contact details current. Supplier may perform planned maintenance and will use reasonable efforts to provide advance notice of material interruptions. Client Data may be exported using the standard tools while the Service is active. The parties shall cooperate reasonably to resolve implementation issues and service requests.
+
+4. Security and Confidentiality
+Each party shall apply reasonable safeguards to protect credentials and confidential information received from the other. Client shall promptly report suspected unauthorized access. Supplier shall use Client Data only to provide and support the Service, except as otherwise authorized in writing.
+
+5. Termination
+Either party may terminate for material breach if the breach is not cured within thirty days after written notice. Either party may also terminate if the other becomes insolvent or ceases substantially all business operations. Upon termination, Supplier shall provide a standard export of Client Data for fifteen days, after which it may be deleted under Supplier’s retention practices.
+
+6. General Provisions
+This Agreement constitutes the entire agreement relating to the Service and may be amended only in a writing signed by both parties. The fictional laws of Mossvale govern. Each party shall comply with laws applicable to its own business activities.
+
+7. Order Form — Commercial Continuity
+The Order Form executed with this Agreement is incorporated into it. Notwithstanding the absence of a renewal provision in the preceding sections, the subscription shall automatically renew for successive periods of twelve (12) months unless either party gives written notice of non-renewal at least 90 days before the end of the then-current term. The same annual fee and seat allocation shall continue for each renewal unless amended by a signed order form. Order Form terms control only where they expressly address the relevant commercial item; otherwise, this Agreement governs.

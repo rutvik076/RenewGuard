@@ -1,0 +1,29 @@
+DATA GOVERNANCE SUBSCRIPTION CONTRACT
+
+PARTIES
+Mistralfern Software Ltd. (“Vendor”)
+Cloverhatch Research Services Ltd. (“Subscriber”)
+
+1. Platform and Scope
+Vendor shall provide Subscriber with access to its hosted data governance workspace, including policy registers, approval flows, evidence storage, and audit exports. The subscribed package includes 95 user accounts and standard weekday support. “Authorized User” means an employee or contractor whom Subscriber has approved to access the workspace.
+
+2. Fees
+The subscription fee is GBP 33,600 per contract year, payable annually in advance within twenty-one (21) days after invoice receipt. Fees exclude applicable transaction taxes except taxes based on Vendor’s net income. Additional storage and bespoke integration work may be ordered only through a signed change request. Subscriber shall pay undisputed amounts while a good-faith invoice dispute is being reviewed.
+
+3. Term
+This Contract begins on the 1st day of March, 2025 and continues for two (2) years, ending on February 28, 2027 (“Initial Term End Date”), unless terminated earlier under Section 7. Vendor will provide one remote onboarding workshop during the first month. Subscriber shall appoint an administrator to manage Authorized Users and receive operational notices. Vendor may update user documentation to reflect product changes, provided that the essential subscribed functions remain materially available. Subscriber shall maintain reasonable safeguards for login credentials and notify Vendor promptly of suspected account compromise. Routine maintenance may be performed outside normal business hours, with advance notice where practicable.
+
+4. Service Support
+Vendor will respond to priority-one incidents within four business hours and will use commercially reasonable efforts to restore affected service. These targets are operational commitments and do not guarantee that every incident will be resolved within that period. Subscriber shall provide relevant diagnostic information when reasonably requested.
+
+5. Renewal
+Upon expiration of the Initial Term, this Contract automatically renews for successive one-year periods unless either party gives timely written notice of non-renewal under Section 8. Each renewal continues the same package and Authorized User allowance unless the parties sign a change request. Renewal does not waive amounts accrued before the renewal date.
+
+6. Termination for Cause
+Either party may terminate for material breach if the breach remains uncured thirty (30) days after written notice. Vendor may suspend access temporarily where reasonably necessary to address a credible security threat, provided it informs Subscriber as soon as practicable.
+
+7. Consequences of Termination
+Upon termination or expiry, Subscriber shall cease using the workspace. Vendor will make a standard export available for twenty-one days, subject to payment of undisputed overdue charges. Confidentiality obligations and accrued payment duties survive to the extent required by their nature.
+
+8. Notices and Law
+A notice of non-renewal must be received at least 120 days before the Initial Term End Date or the end of any renewal period, as applicable. Notices may be delivered by courier or email with acknowledgment of receipt. This Contract is governed by the fictional laws of Greymere.

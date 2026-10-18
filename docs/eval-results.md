@@ -3,7 +3,7 @@
 - Model: `claude-haiku-5-5`
 - Date: 2026-10-18
 - Contracts scored: 25 (errors: 0)
-- Latency per contract: avg 4.5s, max 5.9s
+- Latency per contract: avg 4.4s, max 5.6s
 
 ## Overall
 

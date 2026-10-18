@@ -1,0 +1,14 @@
+﻿{
+    "id":  "c028",
+    "difficulty":  "hard",
+    "vendor_name":  "Quillstone Digital Ltd.",
+    "effective_date":  "2025-03-01",
+    "current_term_end_date":  "2026-09-01",
+    "initial_term_months":  18,
+    "auto_renews":  true,
+    "renewal_term_months":  12,
+    "notice_period_days":  90,
+    "price_escalation_percent":  null,
+    "termination_for_convenience":  null,
+    "notes":  "Renewal and notice terms appear only in the Order Form section at the bottom. The agreement states a term length but does not explicitly write a calendar end date. End date computed as effective date + initial term; not written in the contract. No termination-for-convenience clause, so null."
+}

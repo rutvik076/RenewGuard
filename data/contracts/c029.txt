@@ -1,0 +1,27 @@
+ENTERPRISE ANALYTICS SERVICES AGREEMENT
+
+This Enterprise Analytics Services Agreement (“Agreement”) is made between Embervale Metrics Ltd. (“Provider”) and Tallowmere Distribution Ltd. (“Customer”).
+
+1. Scope
+Provider will supply a hosted analytics platform with operational dashboards, scheduled reports, data connector management, and audit logs. The subscription includes 150 named users and standard remote support. Customer shall administer access rights and ensure that it has authority to provide data processed through the platform.
+
+2. Charges
+The annual subscription fee is EUR 57,000, invoiced in advance and payable within thirty (30) days of receipt. Custom connector work and data migration are excluded and require a signed statement of work. Taxes applicable to the service, other than taxes on Provider’s income, are payable by Customer. Customer shall notify Provider promptly of any invoice dispute and shall pay all undisputed amounts when due.
+
+3. Term
+This Agreement commences on September 15, 2025 and continues for an initial term of thirty (30) months. Provider will provide onboarding assistance and a technical configuration review during the first sixty days. Customer shall appoint a contract owner for service and security matters. Provider may update the interface and documentation, provided the essential subscribed functionality remains materially available. The parties will cooperate reasonably to resolve service issues and to coordinate scheduled maintenance.
+
+4. Renewal
+At the end of the initial term, this Agreement automatically renews for successive periods of twelve (12) months unless either party gives written notice of non-renewal in accordance with Section 8. A renewal continues the same user allowance and service package unless amended by signed writing. Accrued payment obligations remain due regardless of renewal or expiry.
+
+5. Termination for Cause
+Either party may terminate this Agreement for material breach if the breaching party fails to cure within thirty days after written notice. Either party may terminate immediately if the other becomes insolvent or ceases substantially all operations. Provider may temporarily suspend access where reasonably necessary to contain a security incident and shall notify Customer promptly.
+
+6. Customer Termination for Convenience
+Customer may terminate this Agreement for convenience, without alleging breach or cause, by giving Provider not less than ninety (90) days’ prior written notice. Such termination will take effect at the end of the notice period. Customer remains liable for fees accrued through the effective termination date, and prepaid fees for the remainder of a billing period are not refundable except where required by applicable law.
+
+7. Data and Confidentiality
+Following termination or expiry, Provider shall make a standard export of Customer Data available for twenty-one days. Each party shall protect the other’s confidential information and use it only for performance under this Agreement. Confidentiality obligations survive termination.
+
+8. Notices and Governing Law
+A non-renewal notice must be received at least three months before the end of the then-current term. Notices shall be sent by tracked courier or email with acknowledgment of receipt to the designated legal contacts. This Agreement is governed by the fictional laws of Alderwick.

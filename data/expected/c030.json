@@ -1,0 +1,14 @@
+﻿{
+    "id":  "c030",
+    "difficulty":  "hard",
+    "vendor_name":  "Brindlewave Applications Ltd.",
+    "effective_date":  "2024-10-15",
+    "current_term_end_date":  "2027-10-15",
+    "initial_term_months":  36,
+    "auto_renews":  true,
+    "renewal_term_months":  12,
+    "notice_period_days":  90,
+    "price_escalation_percent":  4.0,
+    "termination_for_convenience":  null,
+    "notes":  "The fee is the greater of 4% or CPI movement; the fixed 4% floor is recorded. The contract states the term length but does not explicitly write a calendar end date. End date computed as effective date + initial term; not written in the contract. No termination-for-convenience clause, so null."
+}
