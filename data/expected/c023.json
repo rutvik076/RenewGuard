@@ -1,0 +1,13 @@
+{
+  "id": "c023",
+  "difficulty": "hard",
+  "vendor_name": "Oriolepath Systems Ltd.",
+  "effective_date": "2025-09-30",
+  "current_term_end_date": "2027-03-30",
+  "auto_renews": null,
+  "renewal_term_months": null,
+  "notice_period_days": null,
+  "price_escalation_percent": null,
+  "termination_for_convenience": false,
+  "notes": "The contract states a fixed term ending on 2027-03-30 and contains no renewal or non-renewal provision."
+}

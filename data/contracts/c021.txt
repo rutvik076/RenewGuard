@@ -1,0 +1,18 @@
+CLOUD WORKSPACE SERVICES AGREEMENT
+
+This Cloud Workspace Services Agreement (“Agreement”) is entered into by Lumenbrook Platforms Ltd. (“Vendor”) and Thistledown Fabrication Ltd. (“Customer”).
+
+1. Services Provided
+Vendor will provide Customer with access to a hosted workspace for project records, task tracking, document collaboration, and standard reporting. The subscription covers up to 80 named users and includes routine maintenance and remote support during business hours. Customer is responsible for managing its users and maintaining the accuracy of materials uploaded to the workspace.
+
+2. Subscription Charges
+Customer shall pay an annual subscription fee of USD 21,600, invoiced in advance at the start of each subscription year. Invoices are due within thirty (30) days of receipt. Customer shall pay applicable taxes on the services, excluding taxes imposed on Vendor’s net income. Any additional storage or consulting services must be authorized in a separate written order.
+
+3. Term
+This Agreement takes effect on 2025-02-14 and continues for an initial term of twenty-four (24) months. Vendor will provide a remote onboarding session during the first month and make its administrator guide available online. Customer shall designate a primary contact for account administration and service communications. The parties will cooperate reasonably to resolve configuration questions arising during implementation. Customer shall ensure that account credentials are shared only with authorized personnel. Vendor may perform scheduled maintenance where reasonably necessary and will use reasonable efforts to give advance notice of material service interruptions. The service includes a standard data-export function while Customer’s subscription remains active.
+
+4. Termination
+Either party may terminate this Agreement for material breach if the other party fails to remedy the breach within thirty days after receiving written notice. Vendor may suspend access for a serious security risk while the parties investigate and implement appropriate safeguards. Upon termination or expiration, Customer shall cease using the service and pay all undisputed fees accrued through the effective end date.
+
+5. Confidentiality and General Terms
+Each party shall protect the other party’s non-public business and technical information and use it only to perform this Agreement. Neither party may assign this Agreement without the other party’s written consent, except to a successor in connection with a merger or sale of substantially all relevant assets. This Agreement is governed by the fictional laws of Alderfen. Amendments must be signed by authorized representatives of both parties.

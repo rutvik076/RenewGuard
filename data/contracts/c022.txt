@@ -1,0 +1,23 @@
+SUBSCRIPTION TERMS FOR INVENTORY PLANNING SOFTWARE
+
+Supplier: Merrivale Logic Ltd.
+Client: Brackenridge Outfitters Ltd.
+Start Date: 2024-07-01
+
+A. Licensed Service
+Supplier grants Client access to its hosted inventory planning and replenishment application for internal business operations. The subscription includes 55 named accounts, monthly usage summaries, standard updates, and support through the service portal. Client must maintain secure credentials and promptly remove access for personnel who no longer require it.
+
+B. Fees and Payment
+The annual subscription charge is EUR 16,800, payable quarterly in advance in installments of EUR 4,200. Supplier will issue each invoice at the start of the relevant quarter. Payment is due within fifteen (15) days after the invoice date. Client is responsible for transaction taxes, except taxes assessed on Supplier’s income. Optional migration or training services require a separate quotation approved by Client.
+
+C. Contract Period
+These Terms take effect on 2024-07-01 and remain in force for an initial period of eighteen (18) months. Supplier will provide one onboarding meeting and reasonable assistance with standard account configuration. Client shall nominate an administrator to receive operational notices and coordinate support requests. At the end of the initial period, these Terms renew automatically for successive periods of twelve months unless either party gives written notice of non-renewal in accordance with Section F. The existing service scope and user allowance continue during a renewal unless changed by a signed order. The parties may review usage patterns during the final quarter, but any agreed scope change must be documented in writing. Supplier will maintain a standard export facility for Client data while the subscription is active. Client remains responsible for the accuracy and legality of information it uploads.
+
+D. Service Protection
+Supplier will use commercially reasonable efforts to maintain service availability and will notify Client of planned maintenance where practicable. Each party shall protect the other party’s confidential information from unauthorized disclosure.
+
+E. Breach and Suspension
+Either party may terminate these Terms for material breach if the breach remains uncured thirty (30) days after written notice. Supplier may temporarily suspend access where necessary to address a credible security threat, provided it informs Client as soon as reasonably practicable.
+
+F. Notices and Applicable Law
+A non-renewal notice must be received at least 60 days before the end of the then-current term. Notices may be delivered by tracked courier or email with acknowledgment of receipt. These Terms are governed by the fictional laws of Mereholt.

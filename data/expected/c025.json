@@ -1,0 +1,13 @@
+{
+  "id": "c025",
+  "difficulty": "hard",
+  "vendor_name": "Willowcrest Network Services Ltd.",
+  "effective_date": null,
+  "current_term_end_date": "2027-08-31",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 60,
+  "price_escalation_percent": null,
+  "termination_for_convenience": true,
+  "notes": "The contract states a current term end date but never states an effective or commencement date."
+}

@@ -1,0 +1,18 @@
+MANAGED COMPLIANCE PLATFORM AGREEMENT
+
+Parties: Cinderwillow Software Ltd. (“Vendor”) and Moorhollow Utilities Ltd. (“Client”).
+
+1. Platform
+Vendor shall provide Client with access to a hosted compliance register, policy workflow tools, evidence storage, and audit reporting. The service includes 70 named users and standard weekday support. Client will manage its user permissions and ensure that uploaded records may lawfully be processed through the service.
+
+2. Fees
+Client shall pay USD 31,200 per year, invoiced in advance and payable within thirty days of invoice receipt. Fees for optional data migration or custom reporting require a separate signed order. Client shall pay applicable service taxes, excluding taxes assessed on Vendor’s income. Vendor may suspend optional report generation for undisputed overdue amounts after written notice and a reasonable opportunity to cure.
+
+3. Term and Continuity
+This Agreement is effective on 2025-04-22 and continues for an initial term of twenty-four (24) months. Vendor will provide a remote configuration workshop during the first six weeks and make standard operating documentation available to Client. Client shall appoint an administrator to receive technical notices and coordinate service requests. At the conclusion of the initial term, this Agreement shall automatically renew unless either party communicates its decision not to continue. The parties intend the subscribed service to remain available during any renewal, subject to the terms of this Agreement and payment of applicable charges. A renewal does not add users, modules, or consulting services unless agreed in a separate signed order. The parties may review service performance periodically, but such reviews do not alter this Agreement unless a written amendment is executed. Client shall keep its account credentials confidential and notify Vendor promptly of suspected unauthorized access. Vendor may make routine changes to the user interface provided that the core subscribed functions remain materially available.
+
+4. Termination
+Either party may terminate for material breach if the breach remains uncured thirty days after written notice. Vendor may suspend access temporarily where necessary to address an immediate security threat and shall notify Client as soon as reasonably practicable. On termination or expiration, Vendor shall provide a standard export of Client data for twenty days.
+
+5. Confidentiality and General Conditions
+Each party shall safeguard the other party’s confidential information and use it only for performance under this Agreement. Neither party may assign this Agreement without written consent, except to a successor to substantially all relevant business assets. This Agreement is governed by the fictional laws of Northmarsh. Changes must be signed by both parties.

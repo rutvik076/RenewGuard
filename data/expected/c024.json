@@ -1,0 +1,13 @@
+{
+  "id": "c024",
+  "difficulty": "hard",
+  "vendor_name": "Cinderwillow Software Ltd.",
+  "effective_date": "2025-04-22",
+  "current_term_end_date": "2027-04-22",
+  "auto_renews": true,
+  "renewal_term_months": null,
+  "notice_period_days": null,
+  "price_escalation_percent": null,
+  "termination_for_convenience": false,
+  "notes": "Automatic renewal is expressly stated, but the contract does not specify the length of any renewal period or a non-renewal notice deadline."
+}

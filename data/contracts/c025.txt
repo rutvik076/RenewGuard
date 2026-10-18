@@ -1,0 +1,22 @@
+SERVICE SUBSCRIPTION ORDER AND CONDITIONS
+
+Vendor: Willowcrest Network Services Ltd.
+Customer: Amberfen Research Group Ltd.
+
+1. Service Package
+Vendor will supply Customer with a hosted research collaboration environment, including secure document rooms, version history, access controls, and standard support. The package permits up to 45 named users. Customer shall designate an administrator and promptly notify Vendor when user access should be removed.
+
+2. Fees
+The annual service fee is CAD 14,400, payable in advance within thirty (30) days of invoice receipt. The fee excludes applicable transaction taxes other than taxes on Vendor’s net income. Optional training and data conversion services require written approval and will be charged according to a separate order. Customer shall pay undisputed invoice amounts by the stated due date.
+
+3. Contract Period
+The current subscription term ends on 2027-08-31. Customer may continue to access the service through that date, subject to compliance with these Conditions and payment of all amounts due. Vendor will provide a standard onboarding session and maintain online service documentation. Customer is responsible for the accuracy of its uploaded materials and for maintaining secure credentials. The parties shall cooperate reasonably to resolve support requests and configuration issues. Vendor may conduct scheduled maintenance and will use reasonable efforts to provide advance notice of material interruptions. Customer may export its data using the standard tools made available in the service. Upon the end of the subscription, Vendor shall make a final export available for fifteen days before routine deletion procedures may begin.
+
+4. Renewal and Notice
+The subscription renews automatically for successive periods of twelve (12) months unless either party delivers a written notice of non-renewal. Such notice must be received at least 60 days before the end of the then-current term. Notices shall be sent by tracked courier or email with acknowledgment of receipt to the contractual contacts listed in the parties’ account records.
+
+5. Termination
+Either party may terminate for material breach if the breach remains uncured thirty days after written notice. Customer may terminate for convenience by giving ninety (90) days’ written notice. Amounts accrued before the termination date remain payable.
+
+6. Confidentiality and Governing Law
+Each party shall protect non-public information received from the other and use it only in connection with the service. This document is governed by the fictional laws of East Brindle. Amendments must be signed by authorized representatives of both parties.

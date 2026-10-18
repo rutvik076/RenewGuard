@@ -1,0 +1,21 @@
+PROFESSIONAL HOSTED SERVICES CONTRACT
+
+This Professional Hosted Services Contract (“Contract”) is made between Oriolepath Systems Ltd. (“Provider”) and Fenmere Engineering Cooperative (“Subscriber”).
+
+1. Purpose and Service
+Provider shall make available its hosted maintenance coordination platform, including work-order creation, asset registers, technician scheduling, and audit reports. The service package includes 100 user accounts and standard remote support. Subscriber is responsible for providing compatible devices and maintaining the accuracy of its operational records.
+
+2. Charges
+Subscriber shall pay a fixed contract fee of USD 44,400 for the contract period, invoiced in full upon commencement. Payment is due within thirty (30) days after receipt of the invoice. The fee excludes transaction taxes imposed by the applicable fictional jurisdiction, which Subscriber shall pay where required. Any extra implementation work must be approved through a signed change order.
+
+3. Duration
+The Contract takes effect on 2025-09-30 and remains in force for a period of eighteen (18) months, ending on the date calculated from that commencement date. Provider will conduct a remote setup session within the first twenty business days and supply a standard administrator handbook. Subscriber shall appoint a service owner to coordinate requests and maintain authorized-user records. The parties shall cooperate in good faith during implementation and promptly raise issues that could materially delay configuration. Provider may carry out routine maintenance and will use reasonable efforts to notify Subscriber of planned interruptions. Subscriber may use the platform’s standard export tools during the period in which the service is available. The parties acknowledge that the stated contract period is the period covered by the fees described in Section 2.
+
+4. Ending the Contract
+Either party may terminate for material breach if the other party fails to cure the breach within thirty days after written notice. Provider may restrict access temporarily if necessary to address an immediate threat to platform security, provided it acts reasonably in light of the circumstances. At the end of the contract period, Subscriber shall stop accessing the platform and Provider shall make a final data export available for twenty-one days. Accrued payment obligations and confidentiality obligations continue to apply after the service ends.
+
+5. Confidentiality
+Each party shall protect confidential information received from the other party and use it solely for purposes of this Contract. Disclosure is permitted to professional advisers who are bound by appropriate confidentiality duties.
+
+6. General
+This Contract constitutes the entire agreement concerning the services described herein and supersedes prior discussions on the same subject. Any amendment must be signed by both parties. The fictional laws of Stonehaven govern this Contract.
