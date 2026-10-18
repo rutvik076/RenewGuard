@@ -1,0 +1,17 @@
+ASTERQUILL HOSTED OPERATIONS AGREEMENT
+
+This Hosted Operations Agreement (“Agreement”) is made by Asterquill Systems Ltd. (“Vendor”) and Brindlefen Logistics Ltd. (“Customer”).
+
+1. Services. Vendor will provide Customer with access to its hosted dispatch coordination platform, including route boards, driver task allocation, reporting exports, and standard remote support. The subscription includes 90 named accounts and two administrator accounts. Customer remains responsible for the accuracy of information entered by its personnel.
+
+2. Charges and Billing. The subscription fee is USD 28,800 per contract year, invoiced annually in advance. Payment is due within thirty (30) days of the invoice date. Taxes imposed on the transaction, other than taxes on Vendor’s net income, are payable by Customer. Vendor may suspend new account provisioning for overdue undisputed amounts after written notice and a ten-day opportunity to cure.
+
+3. Term. This Agreement takes effect on 2025-03-12 and continues for an initial term of twenty-four (24) months. During the first forty-five days, Vendor will assist Customer with configuration of standard workflows. Customer shall appoint an administrator for account management and security coordination. At the end of the initial term, this Agreement automatically renews for successive twelve-month periods unless either party gives timely written notice of non-renewal under Section 6. Renewal does not expand the subscribed account limit or add optional modules. The parties may review service performance during the final quarter of a term, but that review does not suspend any deadline or obligation. Vendor may update its user documentation where needed to reflect operational changes, provided that the contracted core functionality is not materially reduced. Each party shall maintain reasonable safeguards for credentials and promptly report suspected unauthorized access.
+
+4. Termination. Either party may terminate for material breach if the breach remains uncured thirty days after written notice. Customer may terminate if Vendor permanently discontinues the platform. On expiration, Vendor will make a standard export of Customer data available for twenty days.
+
+5. Confidentiality and Law. Each party shall protect the other’s non-public business information and use it only for purposes of this Agreement. This Agreement is governed by the fictional laws of Dunmere.
+
+6. Notices. A non-renewal notice must be received at least 75 days before the last day of the then-current term. Notices shall be delivered by tracked courier or email with written acknowledgment to the parties’ designated contract contacts.
+
+7. Charges Review. Any adjustment to recurring fees will be calculated by reference to the percentage movement in the Consumer Prices Index published by the fictional Dunmere Statistics Office over the preceding twelve-month period. No fixed percentage adjustment is specified. The adjusted fee will be shown on the next annual invoice, with a calculation summary available on request.

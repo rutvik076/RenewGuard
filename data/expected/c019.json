@@ -1,0 +1,13 @@
+{
+  "id": "c019",
+  "difficulty": "hard",
+  "vendor_name": "Dovetailmere Digital Ltd.",
+  "effective_date": "2025-05-01",
+  "current_term_end_date": "2026-05-01",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 90,
+  "price_escalation_percent": 6.0,
+  "termination_for_convenience": true,
+  "notes": "The fixed 6% fee adjustment applies only after completion of the second renewal term, not during the initial term or first two renewal terms."
+}

@@ -1,0 +1,13 @@
+{
+  "id": "c018",
+  "difficulty": "hard",
+  "vendor_name": "Quenbyridge Software Ltd.",
+  "effective_date": "2025-01-20",
+  "current_term_end_date": "2027-01-20",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 90,
+  "price_escalation_percent": 3.0,
+  "termination_for_convenience": true,
+  "notes": "The fee adjustment is the greater of a fixed 3% floor or CPI movement; record the fixed percentage floor as 3.0."
+}

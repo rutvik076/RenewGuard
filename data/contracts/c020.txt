@@ -1,0 +1,23 @@
+MASTER SUBSCRIPTION TERMS FOR ANALYTICS SERVICES
+
+Provider: Frostmere Insightworks Ltd.
+Customer: Wickerstone Planning Group Ltd.
+Effective Date: 2024-10-10
+
+I. Services
+Provider supplies a hosted analytics service with dashboarding, scheduled reports, and data connectors. Customer may subscribe to either the Standard tier or the Advanced tier under an order form. The selected tier and seat count are recorded in the order form, which forms part of these Terms. Provider will provide routine maintenance and support through its service portal.
+
+II. Fees
+Standard tier subscriptions are billed annually in advance at the rate shown in the applicable order form. Advanced tier subscriptions are also billed annually in advance at their separately stated order-form rate. For Standard tier subscriptions, the annual fee shall be adjusted upward by 4% on each anniversary of the Effective Date. For Advanced tier subscriptions, the annual fee shall be adjusted upward by 7% on each anniversary of the Effective Date. These adjustments apply only to the relevant tier and do not alter charges for separately ordered consulting or data migration. Invoices are payable within thirty (30) days of issue, and Customer shall pay applicable transaction taxes other than taxes imposed on Provider’s net income. Provider shall identify the tier and applicable annual charge on each invoice. Customer may dispute an invoice in writing, but must pay undisputed amounts by the due date.
+
+III. Term
+These Terms commence on 2024-10-10 and continue for an initial term of twenty-four (24) months. Provider will conduct a remote orientation during the first thirty days and provide access to online service documentation. Customer shall appoint an administrator responsible for account permissions and service communications. Unless either party gives timely notice under Section VI, these Terms automatically renew for successive twelve-month periods. Each renewal carries forward the existing tier and seat count unless the parties sign a revised order form. Renewal does not waive unpaid fees or obligations accrued before the renewal date. Provider may update the service interface and documentation from time to time, provided that the core functions of the selected tier remain materially available. Customer shall not share login credentials with unauthorized third parties.
+
+IV. Termination
+Either party may terminate for material breach if the breach remains uncured thirty days after written notice. Customer may terminate for convenience on 60 days’ written notice. Upon termination, Provider shall make Customer’s data available for export for twenty days.
+
+V. Confidentiality and Law
+Each party shall safeguard confidential information received from the other and use it only for performance under these Terms. The fictional laws of Brackenford govern this agreement.
+
+VI. Notices
+A non-renewal notice must be received at least 75 days before the end of the then-current term. Notices may be delivered by courier or email with acknowledgment to the designated legal contacts.

@@ -1,0 +1,13 @@
+{
+  "id": "c020",
+  "difficulty": "hard",
+  "vendor_name": "Frostmere Insightworks Ltd.",
+  "effective_date": "2024-10-10",
+  "current_term_end_date": "2026-10-10",
+  "auto_renews": true,
+  "renewal_term_months": 12,
+  "notice_period_days": 75,
+  "price_escalation_percent": null,
+  "termination_for_convenience": true,
+  "notes": "Two fixed escalation rates apply to different product tiers (4% Standard and 7% Advanced); because the schema allows only one percentage, price_escalation_percent is null."
+}

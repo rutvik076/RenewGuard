@@ -1,0 +1,13 @@
+{
+  "id": "c017",
+  "difficulty": "hard",
+  "vendor_name": "Velmora Cloudworks Ltd.",
+  "effective_date": "2024-08-05",
+  "current_term_end_date": "2026-02-05",
+  "auto_renews": true,
+  "renewal_term_months": 6,
+  "notice_period_days": 60,
+  "price_escalation_percent": null,
+  "termination_for_convenience": false,
+  "notes": "Fees are adjusted by reference to the Retail Prices Index only; no fixed percentage is stated, so price_escalation_percent is null."
+}

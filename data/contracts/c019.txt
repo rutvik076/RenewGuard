@@ -1,0 +1,21 @@
+NIMBUS WORKFLOW SUBSCRIPTION CONTRACT
+
+This Contract is entered into by Dovetailmere Digital Ltd. (“Vendor”) and Ashbarrow Components Ltd. (“Customer”).
+
+1. Service Description
+Vendor provides a hosted workflow platform for purchase approvals, supplier onboarding, and audit history. The standard subscription includes 110 user accounts, routine maintenance, and email support. Customer is responsible for its own network access and user administration.
+
+2. Fees and Payment
+Customer shall pay USD 52,000 per year, billed in advance and due within 30 days after invoice receipt. Fees exclude applicable taxes. Any optional consulting must be described in a separate statement of work. Customer shall raise invoice disputes promptly and pay amounts not in dispute while the matter is reviewed.
+
+3. Term and Renewal
+This Contract takes effect on 2025-05-01 and has an initial term of twelve months. Vendor will provide an onboarding session and a basic workflow configuration review during the first sixty days. Customer shall appoint a contract administrator to receive notices and manage user permissions. At the end of the initial term, the Contract automatically renews for successive twelve-month renewal terms unless either party gives written non-renewal notice under Section 6. The service package and account allowance remain unchanged during each renewal unless both parties sign an amendment. The parties may review usage and support needs before a renewal, but no review alters the term unless documented in writing. Customer must maintain reasonable safeguards for login credentials and notify Vendor of suspected unauthorized access. Expiration does not extinguish accrued fees or obligations expressly intended to survive.
+
+4. Termination
+Either party may terminate if the other commits a material breach and fails to cure it within thirty days after written notice. Customer may terminate for convenience by giving 60 days’ written notice. Fees paid for a current annual period are non-refundable, except where required by applicable law.
+
+5. Fee Schedule
+The annual subscription fee remains unchanged during the initial term and the first renewal term. Beginning only after completion of the second renewal term, the annual fee shall rise by a fixed 6% for the next term and each later renewal term. Vendor shall state the applicable amount on the invoice issued for each affected renewal period. No other automatic fee adjustment applies under this section. Taxes and separately approved professional services remain outside the annual subscription fee.
+
+6. Notices and Other Terms
+A non-renewal notice must be received at least 90 days before the last day of the then-current term. Notices shall be delivered by courier or email with written acknowledgment to the parties’ designated legal contacts. This Contract is governed by the fictional laws of Redwillow. Amendments require signatures from both parties.

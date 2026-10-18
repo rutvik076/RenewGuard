@@ -1,0 +1,25 @@
+FRAMEWORK AGREEMENT FOR DIGITAL RECORDS SERVICES
+
+BETWEEN: Quenbyridge Software Ltd. (“Provider”)
+AND: Hollowmere Civic Design Ltd. (“Client”)
+
+1. Scope of Supply
+Provider shall host Client’s digital records workspace, metadata catalog, permission controls, and standard reporting functions. The subscription is limited to 140 user accounts and includes routine maintenance and remote technical assistance. Custom connectors are outside scope unless documented in a signed work order.
+
+2. Price and Invoicing
+Client shall pay an annual platform fee of USD 36,000, payable in advance within thirty (30) days of invoice receipt. Additional storage is charged only if Client approves a written order describing the applicable rate. Client shall pay transaction taxes imposed on the services, excluding taxes assessed on Provider’s income. A disputed invoice must be identified in writing within fifteen days, and all undisputed amounts remain payable when due.
+
+3. Term; Continuity
+The effective date of this Agreement is 2025-01-20, and the initial term is twenty-four (24) months. Provider will conduct a setup workshop during the first month and provide a written handover checklist. Client shall designate personnel authorized to request configuration changes. At the end of the initial term, this Agreement shall automatically renew for successive terms of twelve months each unless either party gives notice of non-renewal within the period specified in Section 7. Each renewal continues the same service scope unless modified by a signed writing. The parties may discuss service improvements before a renewal date, but discussion alone will not amend the Agreement. Provider will maintain a standard export mechanism while the subscription is active. Client remains responsible for its own source records and for determining which employees may access restricted materials. Provisions concerning confidentiality, payment obligations already accrued, and liability for prior conduct survive expiration to the extent necessary to give them effect.
+
+4. Termination
+A party may terminate for material breach if the other party fails to cure within thirty days after written notice. Client may terminate for convenience on 90 days’ written notice. Upon termination, Provider shall make a data export available for twenty-one days.
+
+5. Fee Adjustment
+Beginning with the first renewal period, the annual platform fee shall be adjusted by the greater of 3% or the percentage change in the fictional Norbridge Consumer Prices Index over the preceding twelve months. The calculation shall use the published index value available 45 days before the relevant renewal date. Provider will give Client a calculation statement with the renewal invoice. The parties agree that the stated minimum adjustment applies even if the index movement is zero or negative.
+
+6. Confidentiality and Disputes
+Each party shall protect confidential information using reasonable safeguards. Any dispute shall first be referred to contract managers for good-faith discussion. The fictional laws of Norbridge govern this Agreement.
+
+7. Notices
+A non-renewal notice must be received not less than 90 days before the end of the then-current term. Notices shall be sent by tracked courier or email with acknowledgment to the addresses specified in the signature block.

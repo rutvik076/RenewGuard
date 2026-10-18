@@ -1,0 +1,26 @@
+SUBSCRIPTION AND SUPPORT TERMS
+
+Supplier: Velmora Cloudworks Ltd.
+Subscriber: Fenwickmere Labs Ltd.
+Commencement: 2024-08-05
+
+A. Platform Access
+Supplier grants Subscriber a non-exclusive right to use its hosted laboratory workflow and inventory documentation service for internal business purposes. The package includes 60 named users, standard backups, and weekday support. Subscriber must keep its authorized-user list current and prevent credentials from being shared outside its organization.
+
+B. Fees
+The annual subscription charge is GBP 19,200, billed in advance. Invoices are payable within 21 days of issue. Supplier may charge separately for migration assistance only where Subscriber has approved a written quotation. Any applicable sales or transaction taxes are payable by Subscriber, except taxes based on Supplier’s income.
+
+C. Duration and Renewal
+These Terms commence on 2024-08-05 and remain in force for an initial period of eighteen (18) months. Supplier will provide a remote onboarding session and a configuration checklist during the first thirty days. Subscriber shall nominate a primary administrator to receive service communications. Unless either party gives notice of non-renewal in accordance with Section F, these Terms will renew automatically for successive periods of six (6) months. Renewal preserves the existing subscription scope unless a signed order changes it. Neither party is obliged to purchase additional services as a condition of renewal. Supplier may revise its technical manuals as the service evolves, but will not materially remove a core feature included in the subscribed package. On termination or expiry, Subscriber remains responsible for charges accrued through the effective end date. Supplier will provide a data export for a period of fifteen days after expiry, subject to payment of undisputed overdue invoices.
+
+D. Service and Security
+Supplier will use commercially reasonable efforts to maintain service availability. Subscriber must promptly notify Supplier of suspected account compromise and cooperate with reasonable containment steps. Each party shall keep confidential information received from the other secure and restrict access to personnel who need it.
+
+E. Ending Early
+Either party may terminate for material breach if the breach is not remedied within thirty days after written notice. Subscriber may terminate if Supplier permanently withdraws the service from commercial availability.
+
+F. Notices and Price Review
+A non-renewal notice must be delivered at least 60 days before the end of the then-current term. Notices may be sent by courier or email with confirmation of receipt. Subscription fees may be adjusted in line with the percentage change in the Retail Prices Index for the relevant twelve-month period. No standalone fixed percentage is specified. Supplier shall identify the index reference period on the applicable invoice.
+
+G. General
+These Terms are governed by the fictional laws of Elloway. Amendments must be agreed in writing by authorized representatives of both parties.
