@@ -86,6 +86,7 @@ app.MapPost("/contracts", async (
         NoticePeriodDays = result.NoticePeriodDays.Value,
         LastCancelDate = result.LastCancelDate,
         AutoRenews = result.AutoRenews.Value,
+        RenewalTermMonths = result.RenewalTermMonths.Value,
         ExtractionJson = JsonSerializer.Serialize(result)
     };
 
@@ -112,23 +113,31 @@ app.MapGet("/contracts/upcoming", async (int? days, RenewGuardDbContext db, Canc
 
     var rows = await db.Contracts
         .AsNoTracking()
-        .Where(c => c.LastCancelDate != null && c.LastCancelDate >= today && c.LastCancelDate <= limit)
-        .OrderBy(c => c.LastCancelDate)
-        .Select(c => new { c.Id, c.FileName, c.VendorName, c.LastCancelDate, c.NoticePeriodDays, c.AutoRenews })
+        .Where(c => c.TermEndDate != null && c.NoticePeriodDays != null)
         .ToListAsync(ct);
 
-    return rows.Select(c => new
-    {
-        c.Id,
-        c.FileName,
-        c.VendorName,
-        c.LastCancelDate,
-        DaysLeft = c.LastCancelDate!.Value.DayNumber - today.DayNumber,
-        c.NoticePeriodDays,
-        c.AutoRenews
-    });
+    return rows
+        .Select(c => new
+        {
+            Record = c,
+            Window = RenewalCalculator.NextCancelWindow(
+                c.TermEndDate, c.AutoRenews, c.RenewalTermMonths, c.NoticePeriodDays, today)
+        })
+        .Where(x => x.Window is not null && x.Window.Value.Deadline <= limit)
+        .OrderBy(x => x.Window!.Value.Deadline)
+        .Select(x => new
+        {
+            x.Record.Id,
+            x.Record.FileName,
+            x.Record.VendorName,
+            CancelBy = x.Window!.Value.Deadline,
+            TermEnds = x.Window!.Value.TermEnd,
+            DaysLeft = x.Window!.Value.Deadline.DayNumber - today.DayNumber,
+            x.Record.NoticePeriodDays,
+            x.Record.AutoRenews
+        });
 });
-
 app.Run();
 
 public partial class Program { }
+

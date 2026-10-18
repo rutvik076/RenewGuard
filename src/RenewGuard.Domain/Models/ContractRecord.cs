@@ -10,5 +10,7 @@ public class ContractRecord
     public int? NoticePeriodDays { get; set; }
     public DateOnly? LastCancelDate { get; set; }
     public bool? AutoRenews { get; set; }
+    public int? RenewalTermMonths { get; set; }
     public string ExtractionJson { get; set; } = "";
 }
+
