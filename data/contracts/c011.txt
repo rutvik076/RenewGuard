@@ -1,0 +1,21 @@
+CLOUD SERVICES SUBSCRIPTION AGREEMENT
+
+1. Parties and Purpose
+
+This Cloud Services Subscription Agreement (“Agreement”) is entered into between Northvale Systems Ltd. (“Vendor”) and Alderbrook Analytics Ltd. (“Customer”). Vendor will provide Customer with access to its hosted workflow management platform, including document storage, task assignment, reporting dashboards, and standard technical support. Customer may authorize up to 85 individual user accounts under the subscription.
+
+2. Fees and Payment
+
+Customer shall pay an annual subscription fee of USD 18,600, invoiced at the beginning of each subscription year. Payment is due within thirty (30) calendar days after receipt of a valid invoice. Fees exclude applicable taxes, which shall be borne by Customer. Vendor may suspend access for overdue amounts only after providing written notice and a reasonable opportunity to cure the payment default.
+
+3. Term
+
+This Agreement becomes effective on 2025-04-15 and remains in force for an initial period of twenty-four (24) months, unless terminated earlier in accordance with its provisions. The parties acknowledge that the subscription includes configuration assistance during the first thirty days. Customer remains responsible for maintaining the accuracy of its user permissions throughout the contractual relationship. Upon expiration of the initial period, this Agreement shall automatically continue for successive periods of twelve (12) months each unless either party communicates its intention not to continue. Any continuation shall be subject to the provisions of this Agreement then in effect, except for changes mutually agreed in writing. The parties may discuss revised service requirements before the end of a subscription year, but such discussions shall not suspend the existing contractual obligations. Vendor shall retain Customer data for thirty days following expiration, after which deletion may occur in accordance with Vendor's documented retention practices.
+
+4. Termination
+
+Either party may terminate this Agreement for a material breach that remains uncured thirty days after written notice. Either party may also terminate immediately if the other becomes insolvent or ceases substantially all business operations. Customer may export its stored data before the termination date.
+
+5. General Provisions
+
+A party electing not to continue the subscription must deliver written notice at least sixty (60) days before the end of the then-current term. Notices shall be sent by tracked courier or email with confirmation of receipt to the designated contractual representatives. This Agreement is governed by the laws of the fictional State of Bellmere. Amendments must be signed by authorized representatives of both parties.

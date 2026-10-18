@@ -1,0 +1,23 @@
+DIGITAL COMPLIANCE PLATFORM MASTER AGREEMENT
+
+This Master Agreement is between Embercrest Governance Software Ltd. (“Provider”) and Thistlemark Energy Cooperative (“Subscriber”).
+
+A. Services and Access
+
+Provider will supply a hosted compliance management platform for policy registers, evidence collection, approval workflows, and regulatory reporting. Subscriber's subscription permits 75 authorized users across its internal departments. Provider will provide remote support on business days and maintain an online service-status page.
+
+B. Commercial Terms
+
+The annual service charge is EUR 41,500, payable in advance within 30 days of invoice receipt. The charge includes standard hosting, maintenance, and two administrator training sessions. Fees for additional training or migration work must be agreed in a separate order signed by both parties. The annual fee shall be adjusted upward by 3.5% on each anniversary of the Effective Date, and the adjusted amount will apply to the corresponding annual service period. Provider shall state the applicable amount in its invoice and may not charge for optional services without Subscriber's written approval. Subscriber shall pay all applicable transaction taxes, excluding taxes levied on Provider's income. If Subscriber disputes an invoice, it must identify the disputed line items promptly and pay all undisputed amounts when due. Provider may suspend nonessential reporting exports for overdue undisputed fees after giving written notice and a further opportunity to cure.
+
+C. Term
+
+This Master Agreement becomes effective on 2024-11-20 and remains in force for an initial term of thirty-six (36) months. Provider will conduct a service orientation during the first month and supply a configuration checklist to Subscriber's administrator. Subscriber is responsible for determining which personnel require access to regulated records. Following the initial term, this Master Agreement shall automatically renew for successive periods of twenty-four (24) months unless either party gives notice that it will not renew. A renewal shall not itself expand the number of authorized users or change the subscribed modules. The parties may agree to additional services through a signed order form, which will be incorporated into this Master Agreement. Expiration shall not affect accrued payment obligations or provisions intended by their nature to continue afterward. Provider will maintain an export facility for Subscriber's records while the subscription remains active. Each party shall keep the other's confidential information secure using reasonable administrative and technical safeguards.
+
+D. Termination and Transition
+
+Either party may terminate for a material breach that remains uncured 30 days after written notice. Subscriber may terminate immediately if Provider ceases operating the platform permanently. Upon expiration or termination, Provider shall make Subscriber's data export available for 20 days, after which the data may be deleted under Provider's retention procedures.
+
+E. Notices and Miscellaneous
+
+Any non-renewal notice must be delivered no less than 120 days before the end of the then-current term. Notices must be sent by tracked courier or email with written acknowledgment to the parties' designated legal contacts. This Master Agreement is governed by the fictional laws of Westbarrow. It represents the entire agreement concerning the subscribed platform and may be amended only by a writing signed by both parties.

@@ -1,0 +1,25 @@
+SOFTWARE LICENSE AND SUPPORT TERMS
+
+Parties: Redfern Logic Works Ltd. (“Provider”) and Mosswick Retail Group Ltd. (“Client”).
+
+Effective Date: September 1, 2024
+
+1. Licensed Services
+
+Provider grants Client a limited, non-exclusive right to access its inventory forecasting SaaS platform. The subscription includes standard maintenance, quarterly system updates, and remote support during business hours. The license is restricted to Client's internal commercial activities and may not be resold or sublicensed.
+
+2. Charges
+
+The annual license charge is USD 24,000, payable in quarterly installments of USD 6,000. Provider shall issue invoices at the start of each calendar quarter, and Client must remit payment within 15 days. Any disputed invoice must be challenged in writing within ten business days of receipt. Undisputed amounts remain payable according to the original schedule.
+
+3. Term
+
+These Terms take effect on September 1, 2024, and shall remain effective for an initial term of eighteen (18) months. During the term, Provider will maintain commercially reasonable service availability and notify Client of planned maintenance. Client shall designate an administrator to manage access credentials and account permissions. At the conclusion of the initial term, the subscription shall renew automatically for consecutive periods of six months unless Client or Provider gives written notice that renewal is not desired. Each renewed period will carry forward the same service scope unless the parties execute a written amendment. Expiration or renewal shall not eliminate outstanding payment obligations incurred before the relevant date. Provider may revise operational documentation from time to time, provided that such revisions do not materially reduce the contracted functionality. Client shall cooperate with reasonable requests required to investigate security incidents affecting its account.
+
+4. Ending the Relationship
+
+Either party may terminate these Terms for material breach if the breaching party fails to remedy the breach within twenty (20) days after receiving written notice. Client may terminate immediately if Provider permanently discontinues the licensed platform. On termination, Client shall cease using the platform and Provider shall make an export of Client's records available for fifteen days.
+
+5. Notices and Other Conditions
+
+Any notice of non-renewal must be received by the other party no later than 45 days before the applicable term expires. Notices may be delivered by personal delivery, recognized courier, or email to the addresses recorded in the parties' account profiles. These Terms constitute the entire agreement regarding the licensed services. The laws of the fictional jurisdiction of Eastmere govern this Agreement, without regard to conflict-of-law principles.

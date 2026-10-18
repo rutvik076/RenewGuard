@@ -1,0 +1,27 @@
+ENTERPRISE AUTOMATION SERVICES CONTRACT
+
+This Enterprise Automation Services Contract (“Contract”) is entered into by Bluehollow Automation Group Ltd. (“Service Provider”) and Larkspur Transit Systems Ltd. (“Client”).
+
+1. Scope
+
+Service Provider shall make available its hosted automation environment, workflow orchestration tools, audit logs, and enterprise support desk. The contracted environment includes 200 user seats and two production workspaces. Custom integrations are governed by separately approved statements of work.
+
+2. Fees
+
+Client shall pay an annual platform fee of USD 72,000, payable in advance within thirty (30) days after the invoice date. The fee covers the standard service package and the support commitments described in Schedule A, but excludes third-party messaging charges and bespoke development. The fee shall be adjusted upward by 4% on each anniversary of the Effective Date, with the revised amount applying to the next annual billing period. Provider will identify the applicable fee on the invoice for that period, and Client shall continue to pay undisputed portions while raising any good-faith billing question. All payments must be made in the currency stated in the invoice. Taxes assessed on the supply, excluding taxes on Provider's income, are payable by Client. No credit is due for unused seats unless the parties agree otherwise in a signed writing.
+
+3. Term
+
+This Contract is effective on 2025-06-01 and continues for an initial term of twenty-four (24) months. The parties will use the first sixty days to confirm integration settings and access roles. Client shall appoint a contract owner who can approve routine operational changes. At the end of the initial term, the Contract shall renew automatically for successive terms of twelve (12) months unless either party gives a written non-renewal notice in accordance with Section 6. Renewal does not waive fees already accrued or obligations that expressly survive expiration. The service description remains unchanged during a renewal unless the parties sign a modification. Provider may update technical documentation when needed to reflect platform changes, so long as the contracted core functions remain materially available. Client shall maintain reasonable safeguards for administrator credentials and promptly report suspected unauthorized access.
+
+4. Termination
+
+Either party may terminate for material breach if the other party fails to cure within thirty days after written notice. Client may terminate for convenience upon 120 days' prior written notice to Provider. Fees paid for a current billing period are non-refundable except where mandatory law requires otherwise.
+
+5. Confidentiality
+
+Each party shall protect non-public business, technical, and financial information received from the other and use it only to perform or receive services under this Contract.
+
+6. Notices and Law
+
+A notice of non-renewal must be received not less than 90 days before the current term expires. Notices shall be delivered by courier or email with acknowledgment to the contract owners. The fictional jurisdiction of Grayhaven governs this Contract.

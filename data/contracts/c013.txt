@@ -1,0 +1,23 @@
+MANAGED DATA PLATFORM AGREEMENT
+
+This Managed Data Platform Agreement (“Agreement”) is made by and between Stonepath Data Services Ltd. (“Supplier”) and Wrenfield Manufacturing Co. (“Subscriber”).
+
+1. Service Description
+
+Supplier will host Subscriber's operational data workspace and provide scheduled imports, configurable access controls, and monthly usage reports. The subscription covers 120 named users and up to 3 terabytes of stored data. Additional capacity requires a separate written order.
+
+2. Subscription Charges
+
+Subscriber shall pay USD 3,250 per month, billed monthly in arrears. Invoices are payable within twenty-one (21) days of issue. Subscriber is responsible for all taxes other than taxes imposed on Supplier's net income. Supplier may temporarily restrict new data imports if Subscriber exceeds its contracted storage allocation, after providing an administrative warning.
+
+3. Term
+
+The Agreement takes effect on 2025-02-10 and continues for an initial term of twelve (12) months. Supplier shall provide onboarding assistance during the first six weeks and will assign a service coordinator for operational questions. Subscriber must maintain current contact details for its designated administrators. At the end of the initial term, the Agreement will renew automatically for additional twelve-month terms unless a party provides written notice of its decision not to renew. The renewed term will remain subject to the service levels and usage limits set out in this Agreement. Neither party is required to purchase additional modules as a condition of renewal. Supplier may conduct routine maintenance outside its published business hours and will use reasonable efforts to provide advance notice. Each party shall continue to protect the other party's confidential information after the Agreement expires.
+
+4. Termination Rights
+
+A party may terminate for material breach if the breach is not corrected within thirty (30) days after written notice. Subscriber may terminate if a security incident caused by Supplier results in a material, unremedied compromise of Subscriber data. Following termination, Supplier shall provide a standard data export upon request.
+
+5. Communications
+
+A non-renewal notice must be sent at least 75 days before the end of the then-current term. Contractual notices shall be sent to the addresses specified in the signature block, with delivery confirmed by courier or email acknowledgment. This Agreement is governed by the fictional laws of Norvale. Any amendment must be in a document signed by both parties.
