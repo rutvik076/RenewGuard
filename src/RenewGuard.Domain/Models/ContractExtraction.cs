@@ -8,9 +8,14 @@ public record ContractExtraction(
     ExtractedField<int?> RenewalTermMonths,
     ExtractedField<int?> NoticePeriodDays,
     ExtractedField<decimal?> PriceEscalationPercent,
-    ExtractedField<bool?> TerminationForConvenience)
+    ExtractedField<bool?> TerminationForConvenience,
+    ExtractedField<int?> InitialTermMonths)
 {
+    public DateOnly? ResolvedTermEndDate =>
+        RenewalCalculator.ResolveTermEndDate(
+            CurrentTermEndDate.Value, EffectiveDate.Value, InitialTermMonths.Value);
+
     public DateOnly? LastCancelDate =>
         RenewalCalculator.CalculateLastCancelDate(
-            CurrentTermEndDate.Value, NoticePeriodDays.Value);
+            ResolvedTermEndDate, NoticePeriodDays.Value);
 }

@@ -1,13 +1,13 @@
-{
-  "id": "c016",
-  "difficulty": "hard",
-  "vendor_name": "Asterquill Systems Ltd.",
-  "effective_date": "2025-03-12",
-  "current_term_end_date": "2027-03-12",
-  "auto_renews": true,
-  "renewal_term_months": 12,
-  "notice_period_days": 75,
-  "price_escalation_percent": null,
-  "termination_for_convenience": false,
-  "notes": "Fee adjustment is solely CPI-linked; no fixed percentage is stated, so price_escalation_percent is null."
+﻿{
+    "id":  "c016",
+    "difficulty":  "hard",
+    "vendor_name":  "Asterquill Systems Ltd.",
+    "effective_date":  "2025-03-12",
+    "current_term_end_date":  "2027-03-12",
+    "auto_renews":  true,
+    "renewal_term_months":  12,
+    "notice_period_days":  75,
+    "price_escalation_percent":  null,
+    "termination_for_convenience":  null,
+    "notes":  "Fee adjustment is solely CPI-linked; no fixed percentage is stated, so price_escalation_percent is null. No termination-for-convenience clause, so null."
 }

@@ -43,6 +43,7 @@ public class LlmExtraction
     public LlmField NoticePeriodDays { get; set; } = new();
     public LlmField PriceEscalationPercent { get; set; } = new();
     public LlmField TerminationForConvenience { get; set; } = new();
+    public LlmField InitialTermMonths { get; set; } = new();
 }
 
 public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtractor
@@ -62,6 +63,7 @@ public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtr
           "VendorName":                { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
           "EffectiveDate":             { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
           "CurrentTermEndDate":        { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
+          "InitialTermMonths":         { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
           "AutoRenews":                { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
           "RenewalTermMonths":         { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
           "NoticePeriodDays":          { "Value": null, "Evidence": null, "Page": null, "Confidence": 0.0 },
@@ -81,6 +83,8 @@ public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtr
         - Booleans: "true" or "false"
         - Integers: digits only, e.g. "60". Convert months to days
           (1 month = 30 days) ONLY for NoticePeriodDays.
+        - InitialTermMonths: the length of the initial term in months, only when
+          the contract states it. Convert years to months ("two years" = "24").
         - PriceEscalationPercent: a plain number such as "5" for a FIXED
           percentage increase. If the increase is only index-linked (for
           example CPI) or unspecified, return null. For "greater of X% or
@@ -91,10 +95,16 @@ public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtr
            Value and Evidence must be null.
         2. Do not infer values from industry norms.
         3. Evidence must be copied exactly, never paraphrased.
-        4. CurrentTermEndDate is when the first/current term expires.
+        4. CurrentTermEndDate: return a value ONLY if the contract explicitly
+           writes out the end or expiry date. NEVER calculate it from the
+           effective date and the term length; use InitialTermMonths for that.
         5. TerminationForConvenience is "true" only if a party may end the
            contract early without cause; "false" only if the contract
-           explicitly says it may not.
+           explicitly says it may not. If the contract does not mention it,
+           return null.
+        6. AutoRenews is "true" only if the contract says it renews or
+           continues automatically; "false" only if it explicitly says it
+           does not renew. If silent, return null.
         """;
 
     public async Task<ContractExtraction> ExtractAsync(
@@ -107,10 +117,31 @@ public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtr
         };
 
         var response = await chatClient.GetResponseAsync(
-            messages, cancellationToken: cancellationToken);
+            messages, new ChatOptions { MaxOutputTokens = 4000 }, cancellationToken);
 
-        var raw = ParseModelJson(response.Text);
+        if (Environment.GetEnvironmentVariable("RENEWGUARD_DEBUG") == "1")
+            Console.WriteLine(response.Text);
+
+        var raw = ParseWithDiagnostics(response);
         return Map(raw, contractText);
+    }
+
+    private static LlmExtraction ParseWithDiagnostics(ChatResponse response)
+    {
+        try
+        {
+            return ParseModelJson(response.Text);
+        }
+        catch (Exception ex)
+        {
+            var text = response.Text ?? "";
+            var tail = text.Length > 120 ? text[^120..] : text;
+            throw new InvalidOperationException(
+                "Parse failed. finish=" + response.FinishReason +
+                ", outputTokens=" + response.Usage?.OutputTokenCount +
+                ", length=" + text.Length +
+                ", tail=[" + tail.Replace("\n", " ") + "] :: " + ex.Message, ex);
+        }
     }
 
     private static LlmExtraction ParseModelJson(string text)
@@ -154,7 +185,8 @@ public sealed class LlmContractExtractor(IChatClient chatClient) : IContractExtr
             Build<int?>(raw.RenewalTermMonths, ParseInt),
             Build<int?>(raw.NoticePeriodDays, s => ParseInt(s) is >= 0 and var n ? n : null),
             Build<decimal?>(raw.PriceEscalationPercent, ParseDecimal),
-            Build<bool?>(raw.TerminationForConvenience, ParseBool));
+            Build<bool?>(raw.TerminationForConvenience, ParseBool),
+            Build<int?>(raw.InitialTermMonths, ParseInt));
     }
 
     private static string Normalize(string s) =>

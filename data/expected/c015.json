@@ -1,12 +1,13 @@
-{
-  "id": "c015",
-  "difficulty": "hard",
-  "vendor_name": "Embercrest Governance Software Ltd.",
-  "effective_date": "2024-11-20",
-  "current_term_end_date": "2027-11-20",
-  "auto_renews": true,
-  "renewal_term_months": 24,
-  "notice_period_days": 120,
-  "price_escalation_percent": 3.5,
-  "termination_for_convenience": false
+﻿{
+    "id":  "c015",
+    "difficulty":  "hard",
+    "vendor_name":  "Embercrest Governance Software Ltd.",
+    "effective_date":  "2024-11-20",
+    "current_term_end_date":  "2027-11-20",
+    "auto_renews":  true,
+    "renewal_term_months":  24,
+    "notice_period_days":  120,
+    "price_escalation_percent":  3.5,
+    "termination_for_convenience":  null,
+    "notes":  "No termination-for-convenience clause, so null."
 }
