@@ -1,0 +1,22 @@
+﻿services:
+  api:
+    build: .
+    ports:
+      - "8080:8080"
+    environment:
+      ANTHROPIC_API_KEY: ${ANTHROPIC_API_KEY}
+      RENEWGUARD_MODEL: ${RENEWGUARD_MODEL:-claude-haiku-5-5}
+      ConnectionStrings__Default: Data Source=/data/renewguard.db
+    volumes:
+      - renewguard-data:/data
+    depends_on:
+      - mailpit
+
+  mailpit:
+    image: axllent/mailpit
+    ports:
+      - "8025:8025"   # web inbox
+      - "1025:1025"   # SMTP
+
+volumes:
+  renewguard-data:
